@@ -2,6 +2,9 @@
 
 AI-Aided IssueXpert is an advanced AI-based project designed to enhance issue resolution capabilities for the ignio ICC (Intelligent Command Centre) environment. The project employs cutting-edge AI technologies, the Human in the Loop approach, and a knowledge repository to provide efficient and accurate solutions for common issues while involving human expertise for complex cases.
 
+![architecture_high-level_design drawio (1)](https://github.com/prajwalpd7/AI-Aided-IssueXpert/assets/71492927/28190846-cffa-4964-a8b8-0a7f2e6ae4d8)
+
+
 ## Problem Statement
 
 The ignio ICC environment often encounters various issues faced by users and systems. This project aims to develop a functional proof-of-concept prototype that can intelligently analyze data, logs, and patterns within the ignio ecosystem to identify and prioritize common issues based on frequency and severity. The goal is to improve issue resolution coverage, solution correctness, and reduce downtime.
